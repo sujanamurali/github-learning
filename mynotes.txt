@@ -1,0 +1,2 @@
+Today I started learning GitHub.
+Git is interesting.
